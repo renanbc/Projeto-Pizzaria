@@ -2681,6 +2681,10 @@ body{
   background-color: #ffffff;
 }
 
+header{
+  background-image: url(../assets/balcao.jpg);
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
